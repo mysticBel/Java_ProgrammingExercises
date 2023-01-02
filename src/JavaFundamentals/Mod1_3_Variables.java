@@ -1,6 +1,6 @@
 package JavaFundamentals;
 
-public class Variables {
+public class Mod1_3_Variables {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
 

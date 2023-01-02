@@ -1,6 +1,6 @@
 package JavaFundamentals;
 
-public class Constantes {
+public class Mod1_4_Constantes {
     public static void main(String[] args) {
         //Constante es un dato cuyo valor no cambia durante la
         //ejecucion del programa.

@@ -1,6 +1,6 @@
 package JavaFundamentals;
 
-public class TiposDeDatos {
+public class Mod1_2_TiposDeDatos {
     public static void main(String[] args) {
 
         //Correcto

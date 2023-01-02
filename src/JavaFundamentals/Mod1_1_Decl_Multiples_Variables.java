@@ -1,6 +1,6 @@
 package JavaFundamentals;
 
-public class Decl_Multiples_Variables {
+public class Mod1_1_Decl_Multiples_Variables {
 
 	public static void main(String[] args) {
 		/*
