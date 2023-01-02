@@ -1,4 +1,4 @@
-package JavaFundamentals;
+package JavaFundamentals.Mod2_Operadores;
 
 public class Mod2_1_OperadAritmet {
 

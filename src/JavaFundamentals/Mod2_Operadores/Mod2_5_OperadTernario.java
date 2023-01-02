@@ -1,4 +1,4 @@
-package JavaFundamentals;
+package JavaFundamentals.Mod2_Operadores;
 
 public class Mod2_5_OperadTernario {
     public static void main(String[] args) {

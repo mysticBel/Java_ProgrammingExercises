@@ -1,4 +1,4 @@
-package JavaFundamentals;
+package JavaFundamentals.Mod2_Operadores;
 
 public class Mod2_2_Casting {
     public static void main(String[] args) {

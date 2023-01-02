@@ -1,4 +1,4 @@
-package JavaFundamentals;
+package JavaFundamentals.Mod2_Operadores;
 
 public class Mod2_4_OperadLogicos {
     public static void main(String[] args) {

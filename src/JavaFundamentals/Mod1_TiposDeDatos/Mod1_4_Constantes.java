@@ -1,4 +1,4 @@
-package JavaFundamentals;
+package JavaFundamentals.Mod1_TiposDeDatos;
 
 public class Mod1_4_Constantes {
     public static void main(String[] args) {
